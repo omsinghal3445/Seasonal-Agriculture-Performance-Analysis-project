@@ -1,6 +1,8 @@
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-seaborn>=0.12
-scipy>=1.10
+# Tested with Python 3.13 and the versions below (minimum versions shown).
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+seaborn>=0.13.2
+scipy>=1.14
 jupyter>=1.0
+nbconvert>=7.16
